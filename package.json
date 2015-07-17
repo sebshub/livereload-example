@@ -2,7 +2,7 @@
   "name": "cloud9-livereload",
   "version": "0.0.1",
   "description": "An example of using Grunt to serve your static files with live compiling and reloading of your Sass files",
-  "repository": "",
+  "repository": "https://github.com/cloud9ide/livereload-example",
   "author": "Tim Robinson <tim@c9.io>",
   "scripts": {
     "start": "grunt"
